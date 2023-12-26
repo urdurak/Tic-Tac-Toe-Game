@@ -31,7 +31,21 @@ cd Tic-Tac-Toe-Game
 ```
 pip install -r requirements.txt
 ```
-4. Run the following command to get started
+
+
+## How To Play 
+
+1. Run the following command to get started
 ```
 python main.py
 ```
+2.Choose the game mode from the main menu:
+
+- "Play Single Player (Vs PC)" for single-player mode.
+- "Play Two Players" for two-player mode.
+
+3.Follow the on-screen instructions to make your moves.
+
+##Screenshots
+
+![image](https://github.com/urdurak/Tic-Tac-Toe-Game/assets/67443143/c905700e-125c-4a45-b58a-489655ca9459)
