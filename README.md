@@ -48,4 +48,4 @@ python main.py
 
 ##Screenshots
 
-![image](https://github.com/urdurak/Tic-Tac-Toe-Game/assets/67443143/c905700e-125c-4a45-b58a-489655ca9459) | ![image](https://github.com/urdurak/Tic-Tac-Toe-Game/assets/67443143/c905700e-125c-4a45-b58a-489655ca9459)
+![image1](https://github.com/urdurak/Tic-Tac-Toe-Game/assets/67443143/c905700e-125c-4a45-b58a-489655ca9459) | ![image2](https://github.com/urdurak/Tic-Tac-Toe-Game/assets/67443143/c905700e-125c-4a45-b58a-489655ca9459)
