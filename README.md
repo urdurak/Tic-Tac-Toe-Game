@@ -46,6 +46,18 @@ python main.py
 
 3.Follow the on-screen instructions to make your moves.
 
-##Screenshots
+## Screenshots
 
-![image1](https://github.com/urdurak/Tic-Tac-Toe-Game/assets/67443143/c905700e-125c-4a45-b58a-489655ca9459) | ![image2](https://github.com/urdurak/Tic-Tac-Toe-Game/assets/67443143/c905700e-125c-4a45-b58a-489655ca9459)
+- Main Menu
+  
+<img src = "tictactoe/resources/screenshots/mainmenu_light.png" width="500"> <img src = "tictactoe/resources/screenshots/mainmenu_dark.png" width="500">
+
+- In game
+
+<img src = "tictactoe/resources/screenshots/ingame_light.png" width="500"> <img src = "tictactoe/resources/screenshots/ingame_dark.png" width="500">
+
+## Contact
+
+- Instagram : https://www.instagram.com/urdurak/
+- E-mail : ugrdrak@gmail.com
+- E-mail 2: ugurdurak52@gmail.com
